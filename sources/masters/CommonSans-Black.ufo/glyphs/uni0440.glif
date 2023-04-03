@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0440" format="2">
-  <advance width="577"/>
+  <advance width="496"/>
   <unicode hex="0440"/>
   <outline>
     <component base="p"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C2" format="2">
-  <advance width="918"/>
+  <advance width="700"/>
   <unicode hex="04C2"/>
-  <anchor x="351" y="520" name="aboveLC"/>
+  <anchor x="360" y="520" name="aboveLC"/>
   <outline>
     <component base="uni0436"/>
-    <component base="uni0306" xOffset="664"/>
+    <component base="uni0306" xOffset="555"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

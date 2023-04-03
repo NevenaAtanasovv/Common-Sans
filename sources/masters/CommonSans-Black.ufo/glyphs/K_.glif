@@ -2,20 +2,27 @@
 <glyph name="K" format="2">
   <advance width="710"/>
   <unicode hex="004B"/>
+<<<<<<< HEAD
   <guideline x="271" y="317" angle="303.523"/>
   <guideline x="206" y="0" angle="90"/>
   <guideline x="700" y="0" angle="124.439"/>
   <guideline x="664" y="680" angle="231.451"/>
+=======
+  <guideline x="290" y="317" angle="303.523"/>
+  <guideline x="460" y="680" angle="239.006"/>
+  <guideline x="290" y="417" angle="195.945"/>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
   <outline>
     <contour>
-      <point x="206" y="107" type="line"/>
-      <point x="206" y="365" type="line"/>
-      <point x="457" y="680" type="line"/>
-      <point x="665" y="680" type="line" name="n05"/>
-      <point x="433" y="390" type="line"/>
-      <point x="700" y="0" type="line"/>
+      <point x="206" y="225" type="line"/>
+      <point x="308" y="259" type="line"/>
       <point x="480" y="0" type="line" name="n02"/>
-      <point x="318" y="246" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="460" y="350" type="line"/>
+      <point x="660" y="680" type="line" name="n05"/>
+      <point x="460" y="680" type="line"/>
+      <point x="290" y="397" type="line"/>
+      <point x="206" y="373" type="line"/>
     </contour>
     <component base="I"/>
   </outline>

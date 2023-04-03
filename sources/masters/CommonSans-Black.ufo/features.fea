@@ -978,6 +978,7 @@ feature hist {
       lookup histHistoricalFormslookup37;
 } hist;
 
+<<<<<<< HEAD
 # GPOS 
 
 
@@ -992,6 +993,8 @@ feature kern {
       lookup kernHorizontalKerninglookup0;
 } kern;
 
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
 	\Aogonek \Aring \Aringacute \Atilde \B \C \CR \Cacute \Ccaron \Ccedilla 
 	\Ccircumflex \Cdotaccent \D \Dcaron \Dcroat \E \Eacute \Ebreve \Ecaron 

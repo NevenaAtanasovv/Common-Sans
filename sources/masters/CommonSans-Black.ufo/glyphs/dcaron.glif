@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-  <advance width="775"/>
+  <advance width="711"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="quoteright" xOffset="555"/>
+    <component base="quoteright" xOffset="491"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="2">
-  <advance width="587"/>
+  <advance width="422"/>
   <unicode hex="0137"/>
   <outline>
     <component base="k"/>
-    <component base="uni0326" xOffset="422"/>
+    <component base="uni0326" xOffset="339"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

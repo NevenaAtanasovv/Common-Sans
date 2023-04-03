@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcaron" format="2">
-  <advance width="548"/>
+  <advance width="492"/>
   <unicode hex="01E7"/>
   <outline>
     <component base="g"/>
-    <component base="caroncomb" xOffset="476"/>
+    <component base="caroncomb" xOffset="461"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

@@ -8,7 +8,10 @@
     <component base="n"/>
     <component base="j" xOffset="571"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

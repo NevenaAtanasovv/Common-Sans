@@ -7,13 +7,21 @@
     <key>styleName</key>
     <string>Black</string>
     <key>styleMapFamilyName</key>
+<<<<<<< HEAD
     <string>Common Sans</string>
+=======
+    <string>Common Sans Black</string>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
     <key>styleMapStyleName</key>
     <string>bold</string>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
+<<<<<<< HEAD
     <integer>61</integer>
+=======
+    <integer>50</integer>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
     <key>copyright</key>
     <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
     <key>trademark</key>
@@ -31,7 +39,11 @@
     <key>italicAngle</key>
     <real>0</real>
     <key>openTypeHeadCreated</key>
+<<<<<<< HEAD
     <string>2023/04/03 12:54:33</string>
+=======
+    <string>2023/03/27 11:47:49</string>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
     <key>openTypeHheaAscender</key>
     <integer>950</integer>
     <key>openTypeHheaDescender</key>
@@ -52,7 +64,11 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
     <key>openTypeNameLicenseURL</key>
     <string>https://github.com/StefanPeev/Common-Sans/blob/main/OFL.txt</string>
     <key>openTypeNameVersion</key>
+<<<<<<< HEAD
     <string>Version 1.061</string>
+=======
+    <string>Version 1.050</string>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
     <key>openTypeNameDescription</key>
     <string>Copyright (c) 2015-2022 Common Sans Project Authors (https://github.com/StefanPeev/Common-Sans). All rights reserved.</string>
     <key>openTypeNamePreferredFamilyName</key>
@@ -183,7 +199,11 @@ The Open Font License (OFL) is maintained by SIL International. It attempts to b
     <array>
       <dict>
         <key>y</key>
+<<<<<<< HEAD
         <real>235</real>
+=======
+        <real>250</real>
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
         <key>name</key>
         <string>m</string>
       </dict>

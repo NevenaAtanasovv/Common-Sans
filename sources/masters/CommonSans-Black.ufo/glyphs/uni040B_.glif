@@ -2,7 +2,10 @@
 <glyph name="uni040B" format="2">
   <advance width="100"/>
   <unicode hex="040B"/>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>

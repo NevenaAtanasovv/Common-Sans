@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040E" format="2">
-  <advance width="598"/>
+  <advance width="658"/>
   <unicode hex="040E"/>
   <outline>
     <component base="uni0423"/>
-    <component base="uni0306" xOffset="504" yOffset="220"/>
+    <component base="uni0306" xOffset="534" yOffset="220"/>
   </outline>
+<<<<<<< HEAD
   <lib>
     <dict/>
   </lib>
+=======
+>>>>>>> 238285081b569049dee23ac87cd8cd9e26574d97
 </glyph>
